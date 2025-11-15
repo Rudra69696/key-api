@@ -1,1 +1,4 @@
-# key-api
+{
+  "key": "EMPTY",
+  "expires": 0
+}
